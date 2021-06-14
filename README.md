@@ -1,1 +1,1 @@
-# cicd-amharic2
+# cicd-amharic
